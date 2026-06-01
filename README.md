@@ -39,7 +39,7 @@ Right now I'm building **Vocalis** at [oscowl ai](https://github.com/luckyramgug
 ```python
 now_building  = "Vocalis @ oscowl ai 🎙️"
 reach_me_at   = "luckyramguguloth@gmail.com"
-location      = "India 🇮🇳"
+location      = "Hyderabad,India 🇮🇳"
 open_to       = ["collabs", "AI projects", "good conversations"]
 ```
 
