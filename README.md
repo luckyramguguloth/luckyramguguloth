@@ -72,9 +72,9 @@ class LaxmanGuguloth:
 
 ### 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=luckyramguguloth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2fff&text_color=c9d1d9&include_all_commits=true&count_private=true" width="100%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=luckyramguguloth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2fff&text_color=c9d1d9&include_all_commits=true&count_private=true" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=luckyramguguloth&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7b2fff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=666" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=luckyramguguloth&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7b2fff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=666666" width="100%"/>
 
 </td>
 </tr>
@@ -333,11 +333,11 @@ Tech: Gemini 2.5 Flash · Google Search Grounding · Google Maps API · React (V
 
 ## 📈 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyramguguloth&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luckyramguguloth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" width="380"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=luckyramguguloth&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=luckyramguguloth&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%"/>
 
 </div>
 
